@@ -1,0 +1,12 @@
+.
+..
+batchfile.txt
+CIS 3207 – Lab 2.docx
+dir.txt
+makefile.txt
+myshell
+myshell_V2.c
+myshell_V2.c~
+ok.txt
+readme.txt
+testing.txt
